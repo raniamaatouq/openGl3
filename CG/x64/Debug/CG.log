@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ASUS\source\repos\CG\CG\main.cpp(81,9): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\ASUS\source\repos\CG\CG\main.cpp(83,9): warning C4390: ';': empty controlled statement found; is this the intent?
+  CG.vcxproj -> C:\Users\ASUS\source\repos\CG\x64\Debug\CG.exe
